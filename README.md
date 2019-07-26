@@ -3,6 +3,12 @@
 
 A place for [Linux For Everyone podcast](https://linuxforeveryone.fireside.fm) fans to make cool stuff. 
 
+  - [ ]  Images 
+    - [ ]  Wallpapers
+    - [ ]  Adobe Files
+    - [ ]  SVG Files
+  - [ ]  3D Images
+
 Find us over on [Telegram.](https://t.me/linux4everyone)
 
 
