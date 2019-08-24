@@ -25,7 +25,7 @@ into your own github account.
 			a.)  Read https://git-scm.com/docs/git-request-pull
 		    b.)  Read https://help.github.com/en/articles/about-pull-requests
 		    
-	6.) issue a Pull request. git request-pull git push https://github.com/wb7odyfred/linuxforeveryone
+	6.) issue a Pull request. git request-pull https://github.com/wb7odyfred/linuxforeveryone
 		   a.)  Read https://yangsu.github.io/pull-request-tutorial/
 		   b.)  https://help.github.com/en/articles/about-pull-requests
 		   c.)  https://help.github.com/en/articles/creating-a-pull-request-from-a-fork
