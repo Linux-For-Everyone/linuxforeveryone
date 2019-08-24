@@ -3,12 +3,20 @@ These are my stub notes to point a  new person using github.
 
 	1.)  Fork the github repository, https://github.com/KillYourFM
 into your own github account. 
-			a.)  Read https://help.github.com/en/articles/fork-a-repo
-			b.)  Read https://git-scm.com/book/en/v2/Git-Basics-Viewing-the-Commit-History
-			c.)  git log or git shortlog or git status
-			d.)  git remote -v
-			e.)  git remote add upstream https://github.com/KillYourFM/
-		   
+			a.)  Read https://www.digitalocean.com/community/tutorials/how-to-create-a-pull-request-on-github
+			b.)  Read https://help.github.com/en/articles/fork-a-repo
+			c.)  Read https://git-scm.com/book/en/v2/Git-Basics-Viewing-the-Commit-History
+			d.)  git log or git shortlog or git status
+			e.)  git remote -v
+			f.)  git remote add upstream https://github.com/KillYourFM/linuxforeveryone.git
+			
+$ git remote -v
+origin  https://github.com/wb7odyfred/linuxforeveryone.git (fetch)
+origin  https://github.com/wb7odyfred/linuxforeveryone.git (push)
+upstream        https://github.com/KillYourFM/linuxforeveryone.git (fetch)
+upstream        https://github.com/KillYourFM/linuxforeveryone.git (push)
+
+					   
 	2.) Edit/Make changes to files.  Create new Files in your local repository. 
 			a.)  git status or git remote -v
 		   
@@ -25,9 +33,11 @@ into your own github account.
 			a.)  Read https://git-scm.com/docs/git-request-pull
 		    b.)  Read https://help.github.com/en/articles/about-pull-requests
 		    
-	6.) issue a Pull request. git request-pull https://github.com/wb7odyfred/linuxforeveryone
+	6.) issue a Pull request. git request-pull master https://github.com/wb7odyfred/linuxforeveryone
 		   a.)  Read https://yangsu.github.io/pull-request-tutorial/
 		   b.)  https://help.github.com/en/articles/about-pull-requests
 		   c.)  https://help.github.com/en/articles/creating-a-pull-request-from-a-fork
+		   d.)  Read https://hackernoon.com/how-to-git-pr-from-the-command-line-a5b204a57ab1
+		   e.)  git request-pull master ./  		   
 
 
