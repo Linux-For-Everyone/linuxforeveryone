@@ -19,3 +19,5 @@ cards were created to share with friends and people you meet.  Glabels
 Label Designer 3 version 3.4.1 was the tool used to create the business 
 card from Avery Templates in Glabels.    Install Glabels from your 
 distro repository or visit website https://glabels.org 
+QR Code generator  https://www.the-qrcode-generator.com/
+Used linuxforeveryone_header.jpg file for image in Business Cards
