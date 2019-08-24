@@ -1,0 +1,33 @@
+Github for sharing files.   https://github.com/KillYourFM 
+These are my stub notes to point a  new person using github.
+
+	1.)  Fork the github repository, https://github.com/KillYourFM
+into your own github account. 
+			a.)  Read https://help.github.com/en/articles/fork-a-repo
+			b.)  Read https://git-scm.com/book/en/v2/Git-Basics-Viewing-the-Commit-History
+			c.)  git log or git shortlog or git status
+			d.)  git remote -v
+			e.)  git remote add upstream https://github.com/KillYourFM/
+		   
+	2.) Edit/Make changes to files.  Create new Files in your local repository. 
+			a.)  git status or git remote -v
+		   
+	3.) add files,  git add  filename.ext
+			a.)  Read https://help.github.com/en/articles/adding-a-file-to-a-repository-using-the-command-line
+	
+	4.) commit the changes,  git commit -m "Update Linux for Everyone Files with Business Cards"
+			a.)  Read  https://help.github.com/en/categories/committing-changes-to-your-project
+			b.)  Read https://git-scm.com/docs/git-commit
+			c.)  Read https://chris.beams.io/posts/git-commit/
+			d.)  Read https://code.likeagirl.io/useful-tips-for-writing-better-git-commit-messages-808770609503
+
+	5.) issue a Push  git push https://github.com/wb7odyfred/linuxforeveryone
+			a.)  Read https://git-scm.com/docs/git-request-pull
+		    b.)  Read https://help.github.com/en/articles/about-pull-requests
+		    
+	6.) issue a Pull request. git request-pull git push https://github.com/wb7odyfred/linuxforeveryone
+		   a.)  Read https://yangsu.github.io/pull-request-tutorial/
+		   b.)  https://help.github.com/en/articles/about-pull-requests
+		   c.)  https://help.github.com/en/articles/creating-a-pull-request-from-a-fork
+
+
