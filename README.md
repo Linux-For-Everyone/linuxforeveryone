@@ -13,6 +13,6 @@ A place for [Linux For Everyone podcast](https://linuxforeveryone.fireside.fm) f
 
 Find us over on [Telegram.](https://t.me/linux4everyone)
 
-How to [Contribute](Contribute.md)
+How to [Contribute](CONTRIBUTING.MD)
 
 
