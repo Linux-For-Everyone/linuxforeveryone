@@ -1,14 +1,14 @@
 Github for sharing files.   https://github.com/KillYourFM 
-These are my stub notes to point a  new person using github.
+These are my stub notes to point a new person using github.
 
-	1.)  Fork the github repository, https://github.com/KillYourFM
+1.)  Fork the github repository, https://github.com/KillYourFM
 into your own github account. 
-			a.)  Read https://www.digitalocean.com/community/tutorials/how-to-create-a-pull-request-on-github
-			b.)  Read https://help.github.com/en/articles/fork-a-repo
-			c.)  Read https://git-scm.com/book/en/v2/Git-Basics-Viewing-the-Commit-History
-			d.)  git log or git shortlog or git status
-			e.)  git remote -v
-			f.)  git remote add upstream https://github.com/KillYourFM/linuxforeveryone.git
+	a.)  Read https://www.digitalocean.com/community/tutorials/how-to-create-a-pull-request-on-github
+	b.)  Read https://help.github.com/en/articles/fork-a-repo
+	c.)  Read https://git-scm.com/book/en/v2/git-Basics-Viewing-the-Commit-History
+	d.)  git log or git shortlog or git status
+	e.)  git remote -v
+	f.)  git remote add upstream https://github.com/KillYourFM/linuxforeveryone.git
 			
 $ git remote -v
 origin  https://github.com/wb7odyfred/linuxforeveryone.git (fetch)
@@ -17,23 +17,23 @@ upstream        https://github.com/KillYourFM/linuxforeveryone.git (fetch)
 upstream        https://github.com/KillYourFM/linuxforeveryone.git (push)
 
 					   
-	2.) Edit/Make changes to files.  Create new Files in your local repository. 
+2.) Edit/Make changes to files.  Create new Files in your local repository. 
 			a.)  git status or git remote -v
 		   
-	3.) add files,  git add  filename.ext
+3.) add files,  git add  filename.ext
 			a.)  Read https://help.github.com/en/articles/adding-a-file-to-a-repository-using-the-command-line
 	
-	4.) commit the changes,  git commit -m "Update Linux for Everyone Files with Business Cards"
+4.) commit the changes,  git commit -m "Update Linux for Everyone Files with Business Cards"
 			a.)  Read  https://help.github.com/en/categories/committing-changes-to-your-project
 			b.)  Read https://git-scm.com/docs/git-commit
 			c.)  Read https://chris.beams.io/posts/git-commit/
 			d.)  Read https://code.likeagirl.io/useful-tips-for-writing-better-git-commit-messages-808770609503
 
-	5.) issue a Push  git push https://github.com/wb7odyfred/linuxforeveryone
+5.) issue a Push  git push https://github.com/wb7odyfred/linuxforeveryone
 			a.)  Read https://git-scm.com/docs/git-request-pull
 		    b.)  Read https://help.github.com/en/articles/about-pull-requests
 		    
-	6.) issue a Pull request. git request-pull master https://github.com/wb7odyfred/linuxforeveryone
+6.) issue a Pull request. git request-pull master https://github.com/wb7odyfred/linuxforeveryone
 		   a.)  Read https://yangsu.github.io/pull-request-tutorial/
 		   b.)  https://help.github.com/en/articles/about-pull-requests
 		   c.)  https://help.github.com/en/articles/creating-a-pull-request-from-a-fork

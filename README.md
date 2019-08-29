@@ -3,21 +3,16 @@
 
 A place for [Linux For Everyone podcast](https://linuxforeveryone.fireside.fm) fans to make cool stuff. 
 
-  - [ ]  Images 
-    - [ ]  Wallpapers
+  - [ ]  [Images](/Images)
+    - [ ]  [Wallpapers](/Images/Wallpapers)
     - [ ]  Adobe Files
     - [ ]  SVG Files
-  - [ ]  3D Images
+  - [ ]  [3D Images](/3D)
+  - [ ]  [Business-Cards](/Business-Cards)
+  
 
 Find us over on [Telegram.](https://t.me/linux4everyone)
 
-Github for sharing files.   https://github.com/KillYourFM 
+How to [Contribute](CONTRIBUTING.MD)
 
-"Linux For Everyone" Business Cards in a PDF format file to print out 
-on Avery A7414 A4 Paper or Avery 5371 Letter size paper.  The business 
-cards were created to share with friends and people you meet.  Glabels 
-Label Designer 3 version 3.4.1 was the tool used to create the business 
-card from Avery Templates in Glabels.    Install Glabels from your 
-distro repository or visit website https://glabels.org 
-QR Code generator  https://www.the-qrcode-generator.com/
-Used linuxforeveryone_header.jpg file for image in Business Cards
+
