@@ -3,7 +3,7 @@
 
 A place for [Linux For Everyone podcast](https://linuxforeveryone.fireside.fm) fans to make cool stuff. 
 
-  - [ ]  [3D Images](/3d)
+  - [ ]  [3D Images](/3D)
   - [ ]  [Business-Cards](/Business-Cards)
   - [ ]  [Images](/Images)
     - [ ]  Adobe Files
