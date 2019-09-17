@@ -6,9 +6,10 @@ A place for [Linux For Everyone podcast](https://linuxforeveryone.fireside.fm) f
   - [ ]  [3D Images](/3d)
   - [ ]  [Business-Cards](/Business-Cards)
   - [ ]  [Images](/Images)
-    - [ ]  [Wallpapers](/Images/Wallpapers)
     - [ ]  Adobe Files
+    - [ ]  [Games Night](Images/Games Night)
     - [ ]  SVG Files
+    - [ ]  [Wallpapers](/Images/Wallpapers)
   - [ ]  [Keytag](/keytag)
   
   
