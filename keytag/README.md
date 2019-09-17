@@ -18,5 +18,5 @@ Make sure there is no leftover of the previous color when changing filament. Als
 
 If you should use a brim, make sure it's either close enough or far enough from the pieces being printed to not collide with what is already on the bed. 
 
-If you need me, I'm @frenchguych in the [linux4everyone telegram group](t.me/linux4everyone).
+If you need me, I'm @frenchguych in the [linux4everyone telegram group](https://t.me/linux4everyone).
 
