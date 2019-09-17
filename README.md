@@ -3,13 +3,13 @@
 
 A place for [Linux For Everyone podcast](https://linuxforeveryone.fireside.fm) fans to make cool stuff. 
 
-  - [ ]  [3D Images](/3D)
+  - [ ]  [3D Images](/3d)
   - [ ]  [Business-Cards](/Business-Cards)
   - [ ]  [Images](/Images)
     - [ ]  [Wallpapers](/Images/Wallpapers)
     - [ ]  Adobe Files
     - [ ]  SVG Files
-  - [ ]  [Keytag](/Keytag)
+  - [ ]  [Keytag](/keytag)
   
   
   
