@@ -7,7 +7,7 @@ A place for [Linux For Everyone podcast](https://linuxforeveryone.fireside.fm) f
   - [ ]  [Business-Cards](/Business-Cards)
   - [ ]  [Images](/Images)
     - [ ]  Adobe Files
-    - [ ]  [Games-Night](Images/Games-Night)
+    - [ ]  [Games Night](Images/Games-Night)
     - [ ]  SVG Files
     - [ ]  [Wallpapers](/Images/Wallpapers)
   - [ ]  [Keytag](/keytag)
