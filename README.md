@@ -10,7 +10,8 @@ A place for [Linux For Everyone podcast](https://linuxforeveryone.fireside.fm) f
     - [ ]  Adobe Files
     - [ ]  SVG Files
     - [ ]  [Wallpapers](/Images/Wallpapers)
-  - [ ]  [Keytag](/keytag)
+  - [Keytag](/Keytag)
+  - [Video](/Video)
   
   
   
