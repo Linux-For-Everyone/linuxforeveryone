@@ -15,7 +15,7 @@ A place for [Linux For Everyone podcast](linux4everyone.com/) fans to make cool 
   
 # [Linux for Everyone Store](https://destinationlinux.network/store/?fwp_show=248)
 
-![Merch Image]()
+![Merch Image](/L4EMerch.png)
 
 Come join us:
 - [Telegram](https://t.me/linux4everyone)
