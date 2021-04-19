@@ -1,29 +1,11 @@
 # Linux For Everyone
+A place for the [Linux For Everyone podcast](linux4everyone.com/) community to make and share stuff like wallpapers, memes, merch designs, videos, or any other cool L4E stuff you can create!
+
 ![](https://assets.fireside.fm/file/fireside-images/podcasts/images/0/00e8a29c-7246-483a-b97b-a1a0bb8eb4a7/header.jpg?raw=true)
 
-A place for [Linux For Everyone podcast](linux4everyone.com/) fans to make cool stuff. 
-
-  - [ ]  [3D Images](/3D)
-  - [ ]  [Business-Cards](/Business-Cards)
-  - [ ]  [Games Night](Images/Games-Night)  
-  - [ ]  [Images](/Images)
-    - [ ]  Adobe Files
-    - [ ]  SVG Files
-    - [ ]  [Wallpapers](/Images/Wallpapers)
-  - [ ] [Keytag](/Keytag)
-  - [ ] [Videos](/Videos)
+# How to [Contribute](CONTRIBUTING.MD)**
   
-# [Linux for Everyone Store](https://destinationlinux.network/store/?fwp_show=248)
-
-![Merch Image](/L4EMerch.png)
-
-Come join us:
+# Chat with the L4E Community:
 - [Telegram](https://t.me/linux4everyone)
 - [Discord](https://discord.gg/R3JDS4s)
-- [Youtube](youtube.com/linuxforeveryone)
-- [Instagram](https://instagram.com/linuxpodcast)
-- [Patreon](https://patreon.com/linuxforeveryone)
-
-How to [Contribute](CONTRIBUTING.MD)
-
-
+- Matrix Coming Soon!
