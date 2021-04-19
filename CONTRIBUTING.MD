@@ -1,8 +1,8 @@
 # Contributing
 
-## Welcome to the project
+## Welcome to the L4E community repo!
 
-Contributions are welcomed and encouraged.
+Contributions, suggestions and help of any kind is welcome and encouraged!
 Before you contribute, please read our guidelines carefully.
 
 ### Steps to contributing (GUI)
