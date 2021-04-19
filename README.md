@@ -8,4 +8,4 @@ A place for the [Linux For Everyone podcast](linux4everyone.com/) community to m
 # Chat with the L4E Community:
 - [Telegram](https://t.me/linux4everyone)
 - [Discord](https://discord.gg/R3JDS4s)
-- Matrix Coming Soon!
+- [Matrix](https://matrix.to/#/#Linux4Everyone:matrix.org?via=matrix.org&via=t2bot.io)
