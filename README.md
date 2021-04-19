@@ -3,7 +3,7 @@ A place for the [Linux For Everyone podcast](linux4everyone.com/) community to m
 
 ![](https://assets.fireside.fm/file/fireside-images/podcasts/images/0/00e8a29c-7246-483a-b97b-a1a0bb8eb4a7/header.jpg?raw=true)
 
-# Read [how to Contribute](CONTRIBUTING.MD)**
+# **Read [how to Contribute](CONTRIBUTING.MD)**
   
 # Chat with the L4E Community:
 - [Telegram](https://t.me/linux4everyone)
